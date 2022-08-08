@@ -2,7 +2,7 @@
 
 I'm creator of https://we-mak.com/
 
-- 🔭 I’m currently working at Manabie as Frontend engineer.
+- 🔭 I’m currently working at [Manabie](https://www.manabie.com/) as Frontend engineer.
 - 🌱 I’m currently learning how to write better, j/k, actually, I'm curious one, so I learn things impact my works, especifically in programming
 - 💬 Ask me about anything if I can answer, and may be I don't have any answer.
 - 📫 How to reach me: https://viiiprock.com/ 
