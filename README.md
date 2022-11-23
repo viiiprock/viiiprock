@@ -1,9 +1,7 @@
 ### Hi I'm Son 👋
 
-I'm creator of https://we-mak.com/
-
-- 🔭 I’m currently working at [Manabie](https://www.manabie.com/) as Frontend engineer.
-- 🌱 I’m currently learning how to write better, j/k, actually, I'm curious one, so I learn things impact my works, especifically in programming
+- 🔭 I’m currently working at [Manabie](https://www.manabie.com/).
+- 🌱 I’m currently learning how to write better, j/k, I'm curious one, I learn things impact my works, especifically in programming
 - 💬 Ask me about anything if I can answer, and may be I don't have any answer.
 - 📫 How to reach me: https://viiiprock.com/ 
-- ⚡ Fun fact: I graduated as graphic designer, I used to thought that I'd never can play code, now it's my addictive tho
+- ⚡ Fun fact: I graduated as graphic designer, I used to thought that I'd never can play code.
